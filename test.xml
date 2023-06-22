@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<VAST version="2.0">
+  <Ad id="425730262">
+    <Wrapper>
+      <AdSystem version="2.0">adnxs</AdSystem>
+      <VASTAdTagURI><![CDATA[https://v.adserve.tv/pg/vast.xml]]></VASTAdTagURI>
+      <Error><![CDATA[https://fra1-ib.adnxs.com/vast_track/v2?info=ZgAAAAMArgAFAQl3b5RkAAAAABEZbxwtg_7vZRl3b5RkAAAAACDWwYDLASgAMJBCOJBCQLyQfUiA5-ICUMrttgtYAGICRlJoAHAAeACAAQCIAQCQAQCYAQCgAQCoAdbBgMsBsAEB&s=cb55077b9f0bbc8b37d1c24c4fc955c732d50dd6&event_type=4&test=1&error_code=[ERRORCODE]]]></Error>
+      <Impression id="adnxs"><![CDATA[https://ib.adnxs.com/nop]]></Impression>
+      <Creatives>
+        <Creative AdID="425730262">
+          <Linear>
+            <TrackingEvents>
+              <Tracking event="start"><![CDATA[https://fra1-ib.adnxs.com/vast_track/v2?info=ZgAAAAMArgAFAQl3b5RkAAAAABEZbxwtg_7vZRl3b5RkAAAAACDWwYDLASgAMJBCOJBCQLyQfUiA5-ICUMrttgtYAGICRlJoAHAAeACAAQCIAQCQAQCYAQCgAQCoAdbBgMsBsAEB&s=cb55077b9f0bbc8b37d1c24c4fc955c732d50dd6&event_type=2&test=1]]></Tracking>
+              <Tracking event="skip"><![CDATA[https://fra1-ib.adnxs.com/vast_track/v2?info=ZgAAAAMArgAFAQl3b5RkAAAAABEZbxwtg_7vZRl3b5RkAAAAACDWwYDLASgAMJBCOJBCQLyQfUiA5-ICUMrttgtYAGICRlJoAHAAeACAAQCIAQCQAQCYAQCgAQCoAdbBgMsBsAEB&s=cb55077b9f0bbc8b37d1c24c4fc955c732d50dd6&event_type=3&test=1]]></Tracking>
+              <Tracking event="firstQuartile"><![CDATA[https://fra1-ib.adnxs.com/vast_track/v2?info=ZgAAAAMArgAFAQl3b5RkAAAAABEZbxwtg_7vZRl3b5RkAAAAACDWwYDLASgAMJBCOJBCQLyQfUiA5-ICUMrttgtYAGICRlJoAHAAeACAAQCIAQCQAQCYAQCgAQCoAdbBgMsBsAEB&s=cb55077b9f0bbc8b37d1c24c4fc955c732d50dd6&event_type=5&test=1]]></Tracking>
+              <Tracking event="midpoint"><![CDATA[https://fra1-ib.adnxs.com/vast_track/v2?info=ZgAAAAMArgAFAQl3b5RkAAAAABEZbxwtg_7vZRl3b5RkAAAAACDWwYDLASgAMJBCOJBCQLyQfUiA5-ICUMrttgtYAGICRlJoAHAAeACAAQCIAQCQAQCYAQCgAQCoAdbBgMsBsAEB&s=cb55077b9f0bbc8b37d1c24c4fc955c732d50dd6&event_type=6&test=1]]></Tracking>
+              <Tracking event="thirdQuartile"><![CDATA[https://fra1-ib.adnxs.com/vast_track/v2?info=ZgAAAAMArgAFAQl3b5RkAAAAABEZbxwtg_7vZRl3b5RkAAAAACDWwYDLASgAMJBCOJBCQLyQfUiA5-ICUMrttgtYAGICRlJoAHAAeACAAQCIAQCQAQCYAQCgAQCoAdbBgMsBsAEB&s=cb55077b9f0bbc8b37d1c24c4fc955c732d50dd6&event_type=7&test=1]]></Tracking>
+              <Tracking event="complete"><![CDATA[https://fra1-ib.adnxs.com/vast_track/v2?info=ZgAAAAMArgAFAQl3b5RkAAAAABEZbxwtg_7vZRl3b5RkAAAAACDWwYDLASgAMJBCOJBCQLyQfUiA5-ICUMrttgtYAGICRlJoAHAAeACAAQCIAQCQAQCYAQCgAQCoAdbBgMsBsAEB&s=cb55077b9f0bbc8b37d1c24c4fc955c732d50dd6&event_type=8&test=1]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id="adnxs"><![CDATA[https://fra1-ib.adnxs.com/click?AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABlvHC2D_u9lbd9NuhCb3lF3b5RkAAAAAMq2bQEQIQAAECEAAAAAAADWIGAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQMAAAAAAAEAdw11yAAAAAA./bcr=AAAAAAAAAAA=/bn=0/test=1/]]></ClickTracking>
+            </VideoClicks>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </Wrapper>
+  </Ad>
+</VAST>
